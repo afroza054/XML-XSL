@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type="text/xsl" href="Pathao.xsl" ?>
+<apps>
+	
+	<app released="13 Feb, 2019" hirecharge="263">
+        <customername>Barak Obama</customername>
+		<destination>Airport Road</destination>
+		<vehicletype>Car</vehicletype>
+		<pickuptime>2 pm</pickuptime>	
+    </app>
+	<app released="15 Feb, 2020" hirecharge="175">
+        <customername>Tayloy Swift</customername>
+		<destination>Motijheel</destination>
+		<vehicletype>Bike</vehicletype>
+		<pickuptime>5 pm</pickuptime>
+		
+    </app>
+	<app released="17 Feb, 2020" hirecharge="279">
+        <customername>Katy Pery</customername>
+		<destination>Mirpur DOHS</destination>
+		<vehicletype>Car</vehicletype>
+		<pickuptime>10 am</pickuptime>	
+    </app>
+   
+</apps>
